@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri D:/_keebs/C64/Pcb/ortho64/lib.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "D:/_keebs/C64/KiCad Component Libraries/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "D:/_keebs/C64/KiCad Component Libraries/keyboard_parts.pretty-master")(options "")(descr ""))
+)
